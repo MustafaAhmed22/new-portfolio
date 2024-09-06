@@ -2956,6 +2956,8 @@ body.light-skin .header.sticky .navbar.default:before {
 
 .clients-items {
 	margin-top: 80px;
+	display: flex;
+	justify-content: center;
 }
 
 .clients-item {
@@ -2963,7 +2965,7 @@ body.light-skin .header.sticky .navbar.default:before {
 }
 
 .clients-item img {
-	max-height: 34px;
+	max-height: 100px;
 }
 
 
