@@ -1,3 +1,10 @@
 .hero-started .title{
     font-size: 100px;
 }
+
+@media only screen and (max-width: 548px) {
+.hero-started .title{
+    font-size: 50px;
+}
+    
+}
